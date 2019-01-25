@@ -24,3 +24,5 @@ function sayMyName() {
   }
   sayMy();
 }
+
+callMe()
