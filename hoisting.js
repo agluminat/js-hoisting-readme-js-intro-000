@@ -25,4 +25,4 @@ function sayMyName() {
   sayMy();
 }
 
-crazy()
+sayMyName()
