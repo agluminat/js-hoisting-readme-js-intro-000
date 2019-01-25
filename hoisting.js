@@ -25,4 +25,4 @@ function sayMyName() {
   sayMy();
 }
 
-callMe()
+console.log(callMe())
